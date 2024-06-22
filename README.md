@@ -23,6 +23,8 @@ traffic_images > labels
 
 weights > best_exp11.pt
 
+![스크린샷 2024-06-22 165305](https://github.com/mongsam2/YOLO-traffic_object_detection/assets/121383589/5a9dca1b-bada-4079-be44-5bd6c9a74314)
+
 
 ## 테스트
 
