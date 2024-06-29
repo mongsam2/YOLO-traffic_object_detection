@@ -52,8 +52,6 @@ weights > best_exp11.pt
 
 ![stop](https://github.com/mongsam2/YOLO-traffic_object_detection/assets/121383589/6cdc67c5-f010-4bc9-a09e-695377dfbb6c)
 
-![red](https://github.com/mongsam2/YOLO-traffic_object_detection/assets/121383589/61dcf5c7-4253-4fe9-a73d-dc67f9605372)
-
 ![person](https://github.com/mongsam2/YOLO-traffic_object_detection/assets/121383589/66980d63-d477-42d0-a063-d4be16b98016)
 
 ![green](https://github.com/mongsam2/YOLO-traffic_object_detection/assets/121383589/cb33354a-1866-41c8-ac2f-ce0e14575450)
